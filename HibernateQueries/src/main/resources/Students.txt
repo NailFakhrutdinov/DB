@@ -1,0 +1,10 @@
+Roma,20
+Alexandr,43
+Ilnaz,19
+Ilnur,25
+Timur,18
+Vlad,29
+Nail,20
+Pavel,23
+Dinar,27
+Farid,63
